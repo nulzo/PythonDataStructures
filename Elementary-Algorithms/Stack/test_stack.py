@@ -1,5 +1,5 @@
 import unittest
-from DataStructures.stack_structure import Stack
+from Stack.stack_structure import Stack
 
 class TestStackMethods(unittest.TestCase):
     def test_instantiation_default(self):

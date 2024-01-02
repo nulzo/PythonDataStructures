@@ -1,4 +1,4 @@
-from DataStructures.stack_structure import Stack
+from Stack.stack_structure import Stack
 
 # +========================[ Stack Example ]=========================+
 

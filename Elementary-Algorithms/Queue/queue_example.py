@@ -1,4 +1,4 @@
-from DataStructures.queue_structure import Queue
+from Queue.queue_structure import Queue
 
 # +========================[ queue Example ]=========================+
 
